@@ -23,6 +23,12 @@ This board was designed out of a pure passion for hardware and advanced PCB rout
 
 The board features a unique, trace-routed "M" signature logo, representing the designer behind MicroCore Electronics. It’s built for electronics enthusiasts, hackers, and engineers who want a powerful, open-source hardware node to manufacture and bring to life.
 
+<img width="490" height="423" alt="Photo1" src="https://github.com/user-attachments/assets/e9a43923-8144-43d6-9619-a416325b858b" />
+<img width="981" height="778" alt="Photo2" src="https://github.com/user-attachments/assets/71c495a8-adde-4efa-9a2b-62289811c049" />
+<img width="815" height="796" alt="Photo3" src="https://github.com/user-attachments/assets/374c818e-936a-4612-9278-1c26ea6e06f8" />
+
+
+
 ---
 ## 🌐 Connect & Collaborate
 Did you manufacture the board? Have ideas for firmware or hardware improvements? 
