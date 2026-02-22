@@ -30,6 +30,10 @@ The board features a unique, trace-routed "M" signature logo, representing the d
 
 
 ---
+
+**Want to modify the design or view the full Altium source files? Get them here -**
+https://microcoremike.gumroad.com/l/xxdwv?_gl=1*8gkz38*_ga*MTcwMDUzNzU4NC4xNzcxNzY5MzU5*_ga_6LJN6D94N6*czE3NzE3NjkzNTkkbzEkZzEkdDE3NzE3NzMzNzYkajM3JGwwJGgw
+
 ## 🌐 Connect & Collaborate
 Did you manufacture the board? Have ideas for firmware or hardware improvements? 
 Check out our website or drop me an email:
